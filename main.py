@@ -16,4 +16,4 @@ def audioxoxol(url):
 
 if __name__ == '__main__':
     video_url = input("Enter URL: ")
-    download_and_play_audio(video_url)
+    audioxoxol(video_url)
